@@ -2,7 +2,7 @@
   "name": "vite",
   "version": "1.0.0",
   "description": "Este es un proyecto, realizado con tailwindcss",
-  "main": "index.js",
+  "main": "./js/app.js",
   "scripts": {
     "dev": "vite",
     "production": "vite build"
