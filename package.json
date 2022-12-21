@@ -1,0 +1,19 @@
+{
+  "name": "vite",
+  "version": "1.0.0",
+  "description": "Este es un proyecto, realizado con tailwindcss",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "production":"vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.20",
+    "tailwindcss": "^3.2.4",
+    "vite": "^4.0.0"
+  }
+}
